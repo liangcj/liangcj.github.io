@@ -30,7 +30,7 @@ text{
     font-family: Helvetica;
 }
 #myname{
-    font-family: "PT Sans", sans-serif;
+    font-family: "Roboto Slab", "PT Sans", sans-serif;
     font-size: 64px;
     font-weight: 300;
     letter-spacing: -2px;
@@ -57,11 +57,11 @@ h1{
     height: 80px;
     display: block;
 }
-ul{
+#menu ul{
     -webkit-padding-start: 0px;
     text-align: center;
 }
-li{
+#menu li{
     display:inline-block;
     font-family: "Roboto Slab", serif;
     font-size: 24px;
@@ -90,6 +90,16 @@ p{
     color: black;
     text-decoration: none;
 }
+a:link,
+a:visited{
+    text-decoration: none;
+    color: rgb(100,0,0);
+}
+a:hover,
+a:active{
+    color: white;
+    text-decoration: none;
+}
 #time2bin{
   cursor:normal;
 }
@@ -101,4 +111,18 @@ svg.button{
 }
 svg.scatter{
     cursor: ew-resize;
+}
+.bulktxt{
+    font-family:"PT Sans";
+    font-size:20px;
+    color: rgb(70,70,70);
+}
+h2{
+    font-family:"PT Sans";
+    font-weight: 500;
+    font-size:26px;
+    letter-spacing: 1px;
+}
+#menu ul li a.currentpage{
+    color: rgb(250,75,0);
 }

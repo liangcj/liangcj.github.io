@@ -43,6 +43,10 @@ text{
 #menu{
     height: 60px;
 }
+html{
+    min-width: 950px;
+    max-width: 1800px;
+}
 body{
     display: block;
     position: relative;
@@ -101,10 +105,10 @@ a:active{
     text-decoration: none;
 }
 #time2bin{
-  cursor:normal;
+  cursor: normal;
 }
 svg{
-    cursor:crosshair;
+    cursor: crosshair;
 }
 svg.button{
     cursor: pointer;
@@ -113,16 +117,29 @@ svg.scatter{
     cursor: ew-resize;
 }
 .bulktxt{
-    font-family:"PT Sans";
-    font-size:20px;
-    color: rgb(70,70,70);
+    font-family: "PT Sans";
+    font-size: 20px;
 }
 h2{
-    font-family:"PT Sans";
-    font-weight: 500;
-    font-size:26px;
+    font-family: "PT Sans";
+    font-weight: 400;
+    font-size: 24px;
+    letter-spacing: 1px;
+}
+h3{
+    font-family: "PT Sans";
+    font-weight: 400;
+    font-size: 20px;
     letter-spacing: 1px;
 }
 #menu ul li a.currentpage{
-    color: rgb(250,75,0);
+    color: rgb(255,75,0);
+}
+img#profile{
+    display:block;
+    float: left;
+    margin-top: 6px;
+    margin-left: 0px;
+    margin-right: 10px;
+    border-radius: 2px;
 }

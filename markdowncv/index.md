@@ -1,8 +1,8 @@
+<link href="/css/mystyle.css" rel="stylesheet"></link>
+
 ---
 title: C. Jason Liang CV
 ---
-<link href="/css/mystyle.css" rel="stylesheet"></link>
-
 
     | Education
 --- |:---

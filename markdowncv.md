@@ -1,6 +1,6 @@
 ---
 title: C. Jason Liang CV
-layout: cvstyle
+layout: htmlcv
 ---
 
 hi    | Education

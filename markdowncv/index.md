@@ -17,7 +17,7 @@ CV             | C. Jason Liang
 2002-2004      | **Summer/Winter intern**, *Johns Hopkins Applied Physics Laboratory*, Laurel, MD. <br> Digital Hammurabi, Star Tracker, and LIDAR projects.
                | 
 **Experience** | 
-(Finance)      |
+(Finance)      | 
 2006-2009      | **Capital markets analyst**, *Capital One*, McLean, VA.
                | Regulatory advocacy and reform; structured finance deal execution and strategy.
 2005 Summer    | **Summer intern**, *UBS Investment Bank*, Taipei, Taiwan. <br>Execution, pitching, and valuation of foreign stock issuances and merger/acquisition deals

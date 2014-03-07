@@ -5,7 +5,7 @@ layout: htmlcv
 
 C. Jason Liang | Updated March 2014
 ---            |---
-**Education**  |
+**Education**  | 
 2009 - present | **PhD, Biostatistics**, *University of Washington*, Seattle, WA.
 2001 - 2005    | **BA/MA, Mathematics**, *Johns Hopkins University*, Baltimore, MD.
                | 

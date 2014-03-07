@@ -3,7 +3,7 @@ title: C. Jason Liang CV
 layout: htmlcv
 ---
 
-- | -
+Last update: | March 2014
 ---            |---
 **Education**  | 
 2009-present | **PhD, Biostatistics**, *University of Washington*, Seattle, WA.

@@ -3,7 +3,7 @@ title: C. Jason Liang CV
 layout: htmlcv
 ---
 
-\-    | \-
+` ` | ` `
 --- |:---
 **Education**  | 
 2009-present | **PhD, Biostatistics**, *University of Washington*, Seattle, WA.
@@ -52,9 +52,9 @@ layout: htmlcv
                | 
 **Technical tools** | 
 (Programming languages and libraries) | 
-Actively use   | R, C/C++, JavaScript, LaTeX, HTML/CSS, RMarkdown, D3.js
-Conversant in  | Bash, Python, MATLAB, Stata
-Interested in  | Julia, SQL
+Actively use:  | R, C/C++, JavaScript, LaTeX, HTML/CSS, RMarkdown, D3.js
+Conversant in: | Bash, Python, MATLAB, Stata
+Interested in: | Julia, SQL
                | 
 (Software)     | 
 Actively use   | RStudio, Sublime Text, Git/GitHub, Microsoft Office, Unix/Linux, Windows

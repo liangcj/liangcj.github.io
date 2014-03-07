@@ -26,6 +26,18 @@
                 <li><a href="/interactive.html">Interactive Survival Data</a></li>
             </ul>
         </div>
-        {{ content }}
+        <script type="text/javascript">
+            function unhide(divID) {
+                var item = document.getElementById(divID);
+                if (item) {
+                    item.className=(item.className=='hidden')?'bulktxt':'hidden';
+                }
+            }
+        </script>
+        <p class="bulktxt"><a href="/assets/cjlcv.pdf">PDF</a> (created using the <a href="https://launchpad.net/moderncv">moderncv LaTeX template</a>)</p>
+        <p class="bulktxt"><a href="javascript:unhide('mdcv');">Markdown (coming soon)</a></p>
+        <div id="mdcv" class="hidden">
+            {{ content }}
+        </div>
     </body>
 </html>

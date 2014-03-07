@@ -148,4 +148,6 @@ img#profile{
 }
 table{
     border-style:none;
+    font-family: "PT Sans";
+    font-size: 20px;
 }

@@ -3,15 +3,14 @@ title: C. Jason Liang CV
 layout: htmlcv
 ---
 
-               | Education
----            |:---
+C. Jason Liang | Updated March 2014
+---            |---
+**Education**  |
 2009 - present | **PhD, Biostatistics**, *University of Washington*, Seattle, WA.
 2001 - 2005    | **BA/MA, Mathematics**, *Johns Hopkins University*, Baltimore, MD.
-               | **Experience**
-               | Academic
-2012 - present | **Statistical methods for evaluating longitudinal predictive accuracy**, *University of Washington*, Seattle, WA.
-               | Research Assistant
-               | Advisor: Patrick Heagerty
+               | 
+**Experience** | 
+2012 - present | **Statistical methods for evaluating longitudinal predictive accuracy**, *University of Washington*, Seattle, WA. <br> Research Assistant. Advisor: Patrick Heagerty
 2009 - 2012    | **Multi-ethnic study of atherosclerosis (MESA) Air**, *University of Washington*, Seattle, WA.
                | Finance
 2006 - 2009    | **Capital markets analyst**, *Capital One*, McLean, VA.

@@ -29,10 +29,12 @@ layout: htmlcv
 2003 Fall      | **Honors Multivariable Calculus (110.211)**, *Johns Hopkins University*, Baltimore, MD. <br> Instructor: Nitu Kitchloo
                | 
 (Courses and tutorials) | 
-2012-present   | **Summer Computing and Research (BIOST 563)**, *University of Washington*, Seattle, WA. <br> Course taught: Tools for communication, collaboration, and reproducibility: R, RStudio, Git, GitHub, RMarkdown <br> Faculty instructor: Ali Shojaie
+2013 Summer   | **Summer Computing and Research (BIOST 563)**, *University of Washington*, Seattle, WA. <br> Course taught: Tools for communication, collaboration, and reproducibility: R, RStudio, Git, GitHub, RMarkdown <br> Faculty instructor: Ali Shojaie
+2012 Summer   | **Summer Computing and Research (BIOST 563)**, *University of Washington*, Seattle, WA. <br> Course taught: Tools for communication, collaboration, and reproducibility: R, RStudio, Git, GitHub, RMarkdown <br> Faculty instructor: Ken Rice
                |  
 **Presentations**| 
 (Talks)        | 
+2014 Aug       | **Describing the Time-Varying Predictive Performance of Survival Models**, Boston, MA. <br> 2014 Joint Statistical Meetings
 2012 Oct       | **Understanding and accounting for CT scanner differences in time and center**, *University of Washington*, Seattle, WA. <br> MESA Air External Scientific Advisory Committee Meeting
 2011 Oct       | **Logic regression**, *University of Washington*, Seattle, WA. <br> UW Biostatistics Student Seminar
 2010 Oct       | **An alternative method of quantifying coronary artery calcification**, *University of Washington*, Seattle, WA. <br> UW Biostatistics Student Seminar
@@ -64,6 +66,6 @@ Actively use   | RStudio, Sublime Text, Git/GitHub, Microsoft Office, Unix/Linux
                | Mandarin Chinese (Fluent)
                | 
 **Publications** | 
-               | Lee N, Duan H, Hebert MF, **Liang CJ**, Rice KM, and Wang J. Taste of a pill: Organic cation transporter 3 mediates salivary gland accumulation and taste disturbance of metformin (submitted). 2014.
-               | Shuster DL, Risler LJ, **Liang CJ**, Rice KM, Shen DD, Hebert MF, Thummel KE, and Mao Q. Maternal-fetal disposition of glyburide in pregnant mice is dependent on gestational age (submitted). 2014.
+               | Lee N, Duan H, Hebert MF, **Liang CJ**, Rice KM, and Wang J. Taste of a pill: Organic cation transporter-3 (OCT3) mediates metformin accumulation and secretion in salivary glands. *Journal of Biological Chemistry*, 289(39):27055-27064, 2014.
+               | Shuster DL, Risler LJ, **Liang CJ**, Rice KM, Shen DD, Hebert MF, Thummel KE, and Mao Q. Maternal-fetal disposition of glyburide in pregnant mice is dependent on gestational age. *Journal of Pharmacology and Experimental Therapeutics*, jpet-114, 2014.
                | **Liang CJ**, Budoff MJ, Kaufman JD, Kronmal RA, and Brown ER. An alternative method for quantifying coronary artery calcification: the multi-ethnic study of atherosclerosis (MESA). *BMC Medical Imaging*, 12(1):14, 2012.

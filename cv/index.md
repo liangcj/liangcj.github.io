@@ -59,7 +59,6 @@ layout: htmlcv
 (Programming languages and libraries) | 
 Actively use:  | R, C/C++, JavaScript, LaTeX, HTML/CSS, RMarkdown, D3.js
 Conversant in: | Bash, Python, MATLAB, Stata
-Interested in: | Julia, SQL
                | 
 (Software)     | 
 Actively use   | RStudio, Sublime Text, Git/GitHub, Microsoft Office, Unix/Linux, Windows
@@ -69,7 +68,7 @@ Actively use   | RStudio, Sublime Text, Git/GitHub, Microsoft Office, Unix/Linux
                | Mandarin Chinese (Fluent)
                | 
 **Publications** | 
-               | **Liang CJ**, Heagerty PJ. A risk-based measure of time-varying prognostic discrimination for survival models. *Under revision*, 2015.
+               | **Liang CJ**, Heagerty PJ. A risk-based measure of time-varying prognostic discrimination for survival models. *Invited revision, under review*, 2015.
                | Backhus LM, Farhood F, **Liang CJ**, Hao H, Varghese TK, Cheng A, Au DH, Flum DR, Zeliadt SB. Imaging surveillance and survival for surgically resected non–small-cell lung cancer. *Journal of Surgical Research (In press)*, 2015.
                | Lee N, Duan H, Hebert MF, **Liang CJ**, Rice KM, and Wang J. Taste of a pill: Organic cation transporter-3 (OCT3) mediates metformin accumulation and secretion in salivary glands. *Journal of Biological Chemistry*, 289(39):27055-27064, 2014.
                | Shuster DL, Risler LJ, **Liang CJ**, Rice KM, Shen DD, Hebert MF, Thummel KE, and Mao Q. Maternal-fetal disposition of glyburide in pregnant mice is dependent on gestational age. *Journal of Pharmacology and Experimental Therapeutics*, jpet-114, 2014.

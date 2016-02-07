@@ -69,7 +69,7 @@ Actively use   | RStudio, Sublime Text, Git/GitHub, Microsoft Office, Unix/Linux
                | 
 **Publications** | 
                | **Liang CJ**, Heagerty PJ. A risk-based measure of time-varying prognostic discrimination for survival models. *Biometrics* (accepted), 2016.
-               | Backhus LM, Farhood F, **Liang CJ**, Hao H, Varghese TK, Cheng A, Au DH, Flum DR, Zeliadt SB. Imaging surveillance and survival for surgically resected non–small-cell lung cancer. *Journal of Surgical Research (In press)*, 2015.
+               | Backhus LM, Farhood F, **Liang CJ**, Hao H, Varghese TK, Cheng A, Au DH, Flum DR, Zeliadt SB. Imaging surveillance and survival for surgically resected non–small-cell lung cancer. *Journal of Surgical Research*, 2016.
                | Lee N, Duan H, Hebert MF, **Liang CJ**, Rice KM, and Wang J. Taste of a pill: Organic cation transporter-3 (OCT3) mediates metformin accumulation and secretion in salivary glands. *Journal of Biological Chemistry*, 289(39):27055-27064, 2014.
                | Shuster DL, Risler LJ, **Liang CJ**, Rice KM, Shen DD, Hebert MF, Thummel KE, and Mao Q. Maternal-fetal disposition of glyburide in pregnant mice is dependent on gestational age. *Journal of Pharmacology and Experimental Therapeutics*, jpet-114, 2014.
                | **Liang CJ**, Budoff MJ, Kaufman JD, Kronmal RA, and Brown ER. An alternative method for quantifying coronary artery calcification: the multi-ethnic study of atherosclerosis (MESA). *BMC Medical Imaging*, 12(1):14, 2012.

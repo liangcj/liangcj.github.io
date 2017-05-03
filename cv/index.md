@@ -36,8 +36,8 @@ layout: htmlcv
                |  
 **Presentations**| 
 (Talks)        | 
-2017 Apr       | **Methods for evaluating the time-varying prognostic performance of survival models**, National Cancer Institute, Rockville, MD. <br> Biostatistics Branch Seminar Series (Invited)
-2016 Nov       | **Quantifying the time-varying prognostic performance of survival models**, *Penn State College of Medicine*,Hersey, PA. <br> Department of Public Health Sciences (Invited)
+2017 Apr       | **Methods for evaluating the time-varying prognostic performance of survival models**, *National Cancer Institute*, Rockville, MD. <br> Biostatistics Branch Seminar Series (Invited)
+2016 Nov       | **Quantifying the time-varying prognostic performance of survival models**, *Penn State College of Medicine*, Hershey, PA. <br> Department of Public Health Sciences (Invited)
 2015 Aug       | **Evaluating the predictive performance of biomarkers in survival models**, Seattle, WA. <br> 2015 Joint Statistical Meetings
 2015 Mar       | **Measures to evaluate biomarkers as predictors of incident cases**, Miami, FL. <br> 2015 ENAR
 2014 Aug       | **Describing the Time-Varying Predictive Performance of Survival Models**, Boston, MA. <br> 2014 Joint Statistical Meetings

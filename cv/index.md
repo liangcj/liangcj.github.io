@@ -11,7 +11,8 @@ layout: htmlcv
                | 
 **Experience** | 
 (Academic)     | 
-2015-present   | **Post-doctoral research fellow**, *Fred Hutchinson Cancer Research Center*, Seattle, WA. <br> Advisors: Holly Janes and James Dai
+2016-present   | **Mathematical statistician**, *National Institute of Allergy and Infectious Diseases*, Rockville, MD. <br> Biostatistics Research Branch
+2015-2016      | **Post-doctoral research fellow**, *Fred Hutchinson Cancer Research Center*, Seattle, WA. <br> Advisors: Holly Janes and James Dai
 2012-2015      | **Statistical methods for evaluating longitudinal predictive accuracy**, *University of Washington*, Seattle, WA. <br> Research Assistant. Advisor: Patrick Heagerty
 2009-2012      | **Multi-ethnic study of atherosclerosis (MESA) Air**, *University of Washington*, Seattle, WA. <br> Research Assistant. Advisors: Elizabeth Brown and Lianne Sheppard
 2010 Summer    | **Projection methods for approximating the conditional score using the empirical likelihood**, *University of Washington*, Seattle, WA. <br> Research Assistant. Advisor: Gary Chan
@@ -35,6 +36,8 @@ layout: htmlcv
                |  
 **Presentations**| 
 (Talks)        | 
+2017 Apr       | **Methods for evaluating the time-varying prognostic performance of survival models**, National Cancer Institute, Rockville, MD. <br> Biostatistics Branch Seminar Series (Invited)
+2016 Nov       | **Quantifying the time-varying prognostic performance of survival models**, *Penn State College of Medicine*,Hersey, PA. <br> Department of Public Health Sciences (Invited)
 2015 Aug       | **Evaluating the predictive performance of biomarkers in survival models**, Seattle, WA. <br> 2015 Joint Statistical Meetings
 2015 Mar       | **Measures to evaluate biomarkers as predictors of incident cases**, Miami, FL. <br> 2015 ENAR
 2014 Aug       | **Describing the Time-Varying Predictive Performance of Survival Models**, Boston, MA. <br> 2014 Joint Statistical Meetings
@@ -68,7 +71,7 @@ Actively use   | RStudio, Sublime Text, Git/GitHub, Microsoft Office, Unix/Linux
                | Mandarin Chinese (Fluent)
                | 
 **Publications** | 
-               | **Liang CJ**, Heagerty PJ. A risk-based measure of time-varying prognostic discrimination for survival models. *Biometrics* (accepted), 2016.
+               | **Liang CJ**, Heagerty PJ. A risk-based measure of time-varying prognostic discrimination for survival models. *Biometrics*, DOI:10.1111/biom.12628, 2016 (with discussion).
                | Backhus LM, Farhood F, **Liang CJ**, Hao H, Varghese TK, Cheng A, Au DH, Flum DR, Zeliadt SB. Imaging surveillance and survival for surgically resected non–small-cell lung cancer. *Journal of Surgical Research*, 200(1):171-176, 2016.
                | Lee N, Duan H, Hebert MF, **Liang CJ**, Rice KM, and Wang J. Taste of a pill: Organic cation transporter-3 (OCT3) mediates metformin accumulation and secretion in salivary glands. *Journal of Biological Chemistry*, 289(39):27055-27064, 2014.
                | Shuster DL, Risler LJ, **Liang CJ**, Rice KM, Shen DD, Hebert MF, Thummel KE, and Mao Q. Maternal-fetal disposition of glyburide in pregnant mice is dependent on gestational age. *Journal of Pharmacology and Experimental Therapeutics*, 350(2):425-434, 2014.
